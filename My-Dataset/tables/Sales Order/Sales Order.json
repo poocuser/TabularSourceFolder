@@ -1,0 +1,26 @@
+{
+  "name": "Sales Order",
+  "lineageTag": "f0db6ad8-26b0-4377-86f6-11e202039c9a",
+  "annotations": [
+    {
+      "name": "PBI_ResultType",
+      "value": "Table"
+    },
+    {
+      "name": "TabularEditor_Relationships",
+      "value": [
+        "[",
+        "  {",
+        "    \"name\": \"29b21f6a-77ef-4b3b-a0c0-e4111f87627b\",",
+        "    \"fromCardinality\": \"one\",",
+        "    \"fromTable\": \"Sales Order\",",
+        "    \"fromColumn\": \"SalesOrderLineKey\",",
+        "    \"toTable\": \"Sales\",",
+        "    \"toColumn\": \"SalesOrderLineKey\",",
+        "    \"crossFilteringBehavior\": \"bothDirections\"",
+        "  }",
+        "]"
+      ]
+    }
+  ]
+}

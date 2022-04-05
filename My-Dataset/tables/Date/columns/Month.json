@@ -1,0 +1,29 @@
+{
+  "name": "Month",
+  "dataType": "dateTime",
+  "sourceColumn": "Month",
+  "formatString": "Long Date",
+  "lineageTag": "8cc159a8-0c49-4787-b180-11525f5de51c",
+  "summarizeBy": "none",
+  "variations": [
+    {
+      "name": "Variation",
+      "relationship": "586c9eeb-fe2f-431d-a8c4-9723ce217f20",
+      "defaultHierarchy": {
+        "table": "LocalDateTable_d1146ef7-6f90-4647-b97e-2ffae90ba854",
+        "hierarchy": "Date Hierarchy"
+      },
+      "isDefault": true
+    }
+  ],
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "UnderlyingDateTimeDataType",
+      "value": "Date"
+    }
+  ]
+}

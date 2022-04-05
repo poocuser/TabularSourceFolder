@@ -1,0 +1,13 @@
+{
+  "name": "Group",
+  "dataType": "string",
+  "sourceColumn": "Group",
+  "lineageTag": "8c84ecba-8e0b-4843-80c0-21487139086e",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

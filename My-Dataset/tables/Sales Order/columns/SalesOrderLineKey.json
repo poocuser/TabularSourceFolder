@@ -1,0 +1,19 @@
+{
+  "name": "SalesOrderLineKey",
+  "dataType": "int64",
+  "isHidden": true,
+  "sourceColumn": "SalesOrderLineKey",
+  "formatString": "0",
+  "lineageTag": "a9b59f7d-858b-41c8-87c3-c0ae05dcd3b3",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "PBI_ChangedProperties",
+      "value": "[\"IsHidden\"]"
+    }
+  ]
+}

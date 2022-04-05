@@ -1,0 +1,41 @@
+{
+  "name": "Date",
+  "lineageTag": "6b577cdb-37c3-4bd0-be95-664797c12376",
+  "annotations": [
+    {
+      "name": "PBI_ResultType",
+      "value": "Table"
+    },
+    {
+      "name": "TabularEditor_Relationships",
+      "value": [
+        "[",
+        "  {",
+        "    \"name\": \"88371ba8-2389-41b4-a22f-bcb756732d3b\",",
+        "    \"fromTable\": \"Date\",",
+        "    \"fromColumn\": \"Date\",",
+        "    \"toTable\": \"LocalDateTable_1635aca9-f5cf-4673-8bd0-6cbe59eca959\",",
+        "    \"toColumn\": \"Date\",",
+        "    \"joinOnDateBehavior\": \"datePartOnly\"",
+        "  },",
+        "  {",
+        "    \"name\": \"401217e9-9553-4835-a527-fd574f68046d\",",
+        "    \"fromTable\": \"Date\",",
+        "    \"fromColumn\": \"Full Date\",",
+        "    \"toTable\": \"LocalDateTable_dc06deb5-c3da-486c-acde-3111d75ed696\",",
+        "    \"toColumn\": \"Date\",",
+        "    \"joinOnDateBehavior\": \"datePartOnly\"",
+        "  },",
+        "  {",
+        "    \"name\": \"586c9eeb-fe2f-431d-a8c4-9723ce217f20\",",
+        "    \"fromTable\": \"Date\",",
+        "    \"fromColumn\": \"Month\",",
+        "    \"toTable\": \"LocalDateTable_d1146ef7-6f90-4647-b97e-2ffae90ba854\",",
+        "    \"toColumn\": \"Date\",",
+        "    \"joinOnDateBehavior\": \"datePartOnly\"",
+        "  }",
+        "]"
+      ]
+    }
+  ]
+}

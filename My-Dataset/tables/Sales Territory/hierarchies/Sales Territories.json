@@ -1,0 +1,24 @@
+{
+  "name": "Sales Territories",
+  "lineageTag": "86f9a50f-71db-4a83-beb6-f84721ec501a",
+  "levels": [
+    {
+      "name": "Group",
+      "ordinal": 0,
+      "column": "Group",
+      "lineageTag": "ff930d71-1f14-4b43-87ec-268de80cef4e"
+    },
+    {
+      "name": "Country",
+      "ordinal": 1,
+      "column": "Country",
+      "lineageTag": "9d153aaa-ec45-470e-9272-c5e3e3f83b15"
+    },
+    {
+      "name": "Region",
+      "ordinal": 2,
+      "column": "Region",
+      "lineageTag": "ebc1243a-a013-4e55-9a09-ef7fad48e536"
+    }
+  ]
+}

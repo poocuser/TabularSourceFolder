@@ -1,0 +1,20 @@
+{
+  "name": "DateTableTemplate_788642c5-9a9d-4431-b350-9f47f7e53393",
+  "isHidden": true,
+  "isPrivate": true,
+  "lineageTag": "dea28e76-6087-49fb-bfcc-bf26b85f8b3a",
+  "annotations": [
+    {
+      "name": "__PBI_TemplateDateTable",
+      "value": "true"
+    },
+    {
+      "name": "DefaultItem",
+      "value": "DateHierarchy"
+    },
+    {
+      "name": "TabularEditor_Relationships",
+      "value": "[]"
+    }
+  ]
+}

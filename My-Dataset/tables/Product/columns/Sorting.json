@@ -1,0 +1,16 @@
+{
+  "type": "calculated",
+  "name": "Sorting",
+  "dataType": "int64",
+  "isDataTypeInferred": true,
+  "expression": "RELATED('Table'[Sorting])",
+  "formatString": "0",
+  "lineageTag": "417d9c1d-5efe-4edb-b742-a0974d3fa076",
+  "summarizeBy": "sum",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

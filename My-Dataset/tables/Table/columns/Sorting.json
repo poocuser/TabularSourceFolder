@@ -1,0 +1,14 @@
+{
+  "name": "Sorting",
+  "dataType": "int64",
+  "sourceColumn": "Sorting",
+  "formatString": "0",
+  "lineageTag": "f6d969e5-7571-4b40-affc-8524a599fd21",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

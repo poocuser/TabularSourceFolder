@@ -1,0 +1,72 @@
+{
+  "name": "Sales",
+  "lineageTag": "81ffc870-a9f5-4f4d-b7ba-245761327531",
+  "annotations": [
+    {
+      "name": "PBI_NavigationStepName",
+      "value": "Navigation"
+    },
+    {
+      "name": "PBI_ResultType",
+      "value": "Table"
+    },
+    {
+      "name": "TabularEditor_Relationships",
+      "value": [
+        "[",
+        "  {",
+        "    \"name\": \"e3030baf-8c61-408d-a80e-04714277dcd3\",",
+        "    \"fromTable\": \"Sales\",",
+        "    \"fromColumn\": \"CustomerKey\",",
+        "    \"toTable\": \"Customer\",",
+        "    \"toColumn\": \"CustomerKey\"",
+        "  },",
+        "  {",
+        "    \"name\": \"dfb7bf63-667c-4abb-b494-7424c4e34b60\",",
+        "    \"fromTable\": \"Sales\",",
+        "    \"fromColumn\": \"DueDateKey\",",
+        "    \"toTable\": \"Date\",",
+        "    \"toColumn\": \"DateKey\",",
+        "    \"isActive\": false",
+        "  },",
+        "  {",
+        "    \"name\": \"8e31fd7b-1e63-43a9-8a47-33876ae8aed6\",",
+        "    \"fromTable\": \"Sales\",",
+        "    \"fromColumn\": \"OrderDateKey\",",
+        "    \"toTable\": \"Date\",",
+        "    \"toColumn\": \"DateKey\"",
+        "  },",
+        "  {",
+        "    \"name\": \"a0a78efb-3ce3-472a-993a-b92e31c0e3cd\",",
+        "    \"fromTable\": \"Sales\",",
+        "    \"fromColumn\": \"ProductKey\",",
+        "    \"toTable\": \"Product\",",
+        "    \"toColumn\": \"ProductKey\"",
+        "  },",
+        "  {",
+        "    \"name\": \"0ef2b150-bb90-4b8f-8537-fc236873591c\",",
+        "    \"fromTable\": \"Sales\",",
+        "    \"fromColumn\": \"ResellerKey\",",
+        "    \"toTable\": \"Reseller\",",
+        "    \"toColumn\": \"ResellerKey\"",
+        "  },",
+        "  {",
+        "    \"name\": \"cecf591c-1f02-44a6-bff1-1c753a0b4835\",",
+        "    \"fromTable\": \"Sales\",",
+        "    \"fromColumn\": \"SalesTerritoryKey\",",
+        "    \"toTable\": \"Sales Territory\",",
+        "    \"toColumn\": \"SalesTerritoryKey\"",
+        "  },",
+        "  {",
+        "    \"name\": \"6a63bfea-7b52-4e05-85f4-63a0f9b8991f\",",
+        "    \"fromTable\": \"Sales\",",
+        "    \"fromColumn\": \"ShipDateKey\",",
+        "    \"toTable\": \"Date\",",
+        "    \"toColumn\": \"DateKey\",",
+        "    \"isActive\": false",
+        "  }",
+        "]"
+      ]
+    }
+  ]
+}

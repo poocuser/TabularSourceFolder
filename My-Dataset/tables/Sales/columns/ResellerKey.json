@@ -1,0 +1,19 @@
+{
+  "name": "ResellerKey",
+  "dataType": "int64",
+  "isHidden": true,
+  "sourceColumn": "ResellerKey",
+  "formatString": "0",
+  "lineageTag": "ee73a183-f011-4197-8a49-d741d15f1b09",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "PBI_ChangedProperties",
+      "value": "[\"IsHidden\"]"
+    }
+  ]
+}

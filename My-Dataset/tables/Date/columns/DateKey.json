@@ -1,0 +1,19 @@
+{
+  "name": "DateKey",
+  "dataType": "int64",
+  "isHidden": true,
+  "sourceColumn": "DateKey",
+  "formatString": "0",
+  "lineageTag": "4d6559d1-951a-42b4-99ef-4b4cc16424f2",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "PBI_ChangedProperties",
+      "value": "[\"IsHidden\"]"
+    }
+  ]
+}

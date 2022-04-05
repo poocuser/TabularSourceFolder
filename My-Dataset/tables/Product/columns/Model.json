@@ -1,0 +1,13 @@
+{
+  "name": "Model",
+  "dataType": "string",
+  "sourceColumn": "Model",
+  "lineageTag": "8d5d0388-cf01-4d02-93ad-980885a45c70",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

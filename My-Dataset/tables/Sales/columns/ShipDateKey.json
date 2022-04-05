@@ -1,0 +1,19 @@
+{
+  "name": "ShipDateKey",
+  "dataType": "int64",
+  "isHidden": true,
+  "sourceColumn": "ShipDateKey",
+  "formatString": "0",
+  "lineageTag": "ec674a08-86ff-4a89-8ab3-1e115542de44",
+  "summarizeBy": "count",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "PBI_ChangedProperties",
+      "value": "[\"IsHidden\"]"
+    }
+  ]
+}

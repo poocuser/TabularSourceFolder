@@ -1,0 +1,14 @@
+{
+  "name": "Reseller",
+  "lineageTag": "3dc846c4-ed20-440f-9b5d-a011f8ccceb5",
+  "annotations": [
+    {
+      "name": "PBI_ResultType",
+      "value": "Table"
+    },
+    {
+      "name": "TabularEditor_Relationships",
+      "value": "[]"
+    }
+  ]
+}

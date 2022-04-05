@@ -1,0 +1,13 @@
+{
+  "name": "Postal Code",
+  "dataType": "string",
+  "sourceColumn": "Postal Code",
+  "lineageTag": "6b3553cf-d415-4141-827c-bb9771705fc3",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

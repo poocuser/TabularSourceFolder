@@ -1,0 +1,19 @@
+{
+  "name": "ProductKey",
+  "dataType": "int64",
+  "isHidden": true,
+  "sourceColumn": "ProductKey",
+  "formatString": "0",
+  "lineageTag": "1b271bf7-c3f4-4446-9e1b-a1bbd80c8aed",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "PBI_ChangedProperties",
+      "value": "[\"IsHidden\"]"
+    }
+  ]
+}

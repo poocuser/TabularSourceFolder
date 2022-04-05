@@ -1,0 +1,36 @@
+{
+  "name": "Geography",
+  "lineageTag": "158c04a3-e17d-4162-b071-c76644a44d76",
+  "levels": [
+    {
+      "name": "Country-Region",
+      "ordinal": 0,
+      "column": "Country-Region",
+      "lineageTag": "f9b66bf3-c06f-4ed1-b637-f2a0a1a55c3d"
+    },
+    {
+      "name": "State-Province",
+      "ordinal": 1,
+      "column": "State-Province",
+      "lineageTag": "c6be70ae-31d6-4a4c-b4f0-53202009d87b"
+    },
+    {
+      "name": "City",
+      "ordinal": 2,
+      "column": "City",
+      "lineageTag": "7d3c39b6-5f3b-493a-bc8c-e86fb9b69a24"
+    },
+    {
+      "name": "Postal Code",
+      "ordinal": 3,
+      "column": "Postal Code",
+      "lineageTag": "b71a0e43-2c21-40d9-915b-8fffeee73070"
+    },
+    {
+      "name": "Customer",
+      "ordinal": 4,
+      "column": "Customer",
+      "lineageTag": "84509263-7107-49cd-8548-fb542b27bb0a"
+    }
+  ]
+}

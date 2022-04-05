@@ -1,0 +1,19 @@
+{
+  "name": "CustomerKey",
+  "dataType": "int64",
+  "isHidden": true,
+  "sourceColumn": "CustomerKey",
+  "formatString": "0",
+  "lineageTag": "5e71ec36-0607-4a37-b4f8-d2934e1cc549",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "PBI_ChangedProperties",
+      "value": "[\"IsHidden\"]"
+    }
+  ]
+}

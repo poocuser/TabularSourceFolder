@@ -1,0 +1,17 @@
+{
+  "name": "Unit Price",
+  "dataType": "double",
+  "sourceColumn": "Unit Price",
+  "lineageTag": "8fd9670c-315b-4923-b838-c819eca98719",
+  "summarizeBy": "sum",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "PBI_FormatHint",
+      "value": "{\"isGeneralNumber\":true}"
+    }
+  ]
+}

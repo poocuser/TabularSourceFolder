@@ -1,0 +1,17 @@
+{
+  "name": "Product Standard Cost",
+  "dataType": "double",
+  "sourceColumn": "Product Standard Cost",
+  "lineageTag": "e5a4e13b-a7d2-4db5-a6c3-50ca709d4982",
+  "summarizeBy": "sum",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "PBI_FormatHint",
+      "value": "{\"isGeneralNumber\":true}"
+    }
+  ]
+}

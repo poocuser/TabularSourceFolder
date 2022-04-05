@@ -1,0 +1,18 @@
+{
+  "name": "Sales Orders",
+  "lineageTag": "cf471633-3d8a-4d95-b656-4129d26be055",
+  "levels": [
+    {
+      "name": "Sales Order",
+      "ordinal": 0,
+      "column": "Sales Order",
+      "lineageTag": "e7a55f6b-1be2-4005-8a53-87db0ab519f5"
+    },
+    {
+      "name": "Sales Order Line",
+      "ordinal": 1,
+      "column": "Sales Order Line",
+      "lineageTag": "0dd6537c-5f4b-47b6-a117-5c9e816e9e7f"
+    }
+  ]
+}

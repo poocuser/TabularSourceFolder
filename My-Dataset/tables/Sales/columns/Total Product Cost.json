@@ -1,0 +1,17 @@
+{
+  "name": "Total Product Cost",
+  "dataType": "double",
+  "sourceColumn": "Total Product Cost",
+  "lineageTag": "d2074d48-a670-44db-943c-2a6245a20859",
+  "summarizeBy": "sum",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "PBI_FormatHint",
+      "value": "{\"isGeneralNumber\":true}"
+    }
+  ]
+}

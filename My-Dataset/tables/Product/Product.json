@@ -1,0 +1,24 @@
+{
+  "name": "Product",
+  "lineageTag": "cf6a0274-1be3-4457-a89a-186babf41e0e",
+  "annotations": [
+    {
+      "name": "PBI_ResultType",
+      "value": "Table"
+    },
+    {
+      "name": "TabularEditor_Relationships",
+      "value": [
+        "[",
+        "  {",
+        "    \"name\": \"93a2e7c9-4a15-47be-93c0-06eceb139103\",",
+        "    \"fromTable\": \"Product\",",
+        "    \"fromColumn\": \"Category\",",
+        "    \"toTable\": \"Table\",",
+        "    \"toColumn\": \"Category\"",
+        "  }",
+        "]"
+      ]
+    }
+  ]
+}

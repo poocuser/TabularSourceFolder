@@ -1,0 +1,19 @@
+{
+  "name": "OrderDateKey",
+  "dataType": "int64",
+  "isHidden": true,
+  "sourceColumn": "OrderDateKey",
+  "formatString": "0",
+  "lineageTag": "f9959049-4a75-49d7-afef-c0039299d714",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "PBI_ChangedProperties",
+      "value": "[\"IsHidden\"]"
+    }
+  ]
+}

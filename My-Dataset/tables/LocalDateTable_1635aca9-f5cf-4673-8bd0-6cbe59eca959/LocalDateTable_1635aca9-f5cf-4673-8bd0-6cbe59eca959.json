@@ -1,0 +1,16 @@
+{
+  "name": "LocalDateTable_1635aca9-f5cf-4673-8bd0-6cbe59eca959",
+  "isHidden": true,
+  "showAsVariationsOnly": true,
+  "lineageTag": "3883e4c5-8a22-460a-ac31-9f0b95f411cc",
+  "annotations": [
+    {
+      "name": "__PBI_LocalDateTable",
+      "value": "true"
+    },
+    {
+      "name": "TabularEditor_Relationships",
+      "value": "[]"
+    }
+  ]
+}

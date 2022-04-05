@@ -1,0 +1,14 @@
+{
+  "name": "Unit Price Discount Pct",
+  "dataType": "int64",
+  "sourceColumn": "Unit Price Discount Pct",
+  "formatString": "0",
+  "lineageTag": "211b9c25-7275-415a-a90f-6e6f4a62624b",
+  "summarizeBy": "sum",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

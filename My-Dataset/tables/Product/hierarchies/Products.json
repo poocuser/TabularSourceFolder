@@ -1,0 +1,30 @@
+{
+  "name": "Products",
+  "lineageTag": "eebf6522-42ea-43b6-aa8b-e5ec96c63098",
+  "levels": [
+    {
+      "name": "Category",
+      "ordinal": 0,
+      "column": "Category",
+      "lineageTag": "0e30d283-3cf0-4a0e-bbc1-72dcc8afdee9"
+    },
+    {
+      "name": "Subcategory",
+      "ordinal": 1,
+      "column": "Subcategory",
+      "lineageTag": "da400b72-abf0-492d-b03a-3bd84eedb9e2"
+    },
+    {
+      "name": "Model",
+      "ordinal": 2,
+      "column": "Model",
+      "lineageTag": "3e907692-b233-436d-912d-b8db2a9d0f4a"
+    },
+    {
+      "name": "Product",
+      "ordinal": 3,
+      "column": "Product",
+      "lineageTag": "afa03541-e8bf-4224-9c83-81182a0be61a"
+    }
+  ]
+}

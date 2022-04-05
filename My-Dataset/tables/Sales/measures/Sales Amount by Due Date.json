@@ -1,0 +1,5 @@
+{
+  "name": "Sales Amount by Due Date",
+  "expression": "CALCULATE(SUM(Sales[Sales Amount]), USERELATIONSHIP(Sales[DueDateKey],'Date'[DateKey])) ",
+  "lineageTag": "a1b182ed-1fda-440c-a033-bbd27f5dc477"
+}
